@@ -1,0 +1,30 @@
+{
+  "name": "kelimeogrenme",
+  "version": "1.0.0",
+  "description": "Kelime Öğrenme Projesi",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "config": "^3.3.11",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.5",
+    "pg-hstore": "^2.3.4",
+    "react-router-dom": "^6.23.1",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
