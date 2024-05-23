@@ -20,7 +20,7 @@ const Register = () => {
         securityAnswer
       });
       if (res.status === 200) {
-        navigate('/login');
+        navigate('/');
       } else {
         alert('Registration failed');
       }
