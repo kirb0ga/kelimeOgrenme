@@ -6,7 +6,7 @@ Bu proje, kullanıcıların İngilizce kelime öğrenmelerine yardımcı olan bi
 
 1. Bu repository'yi klonlayın:
     ```sh
-    git clone <repository_link>
+    git clone <https://github.com/kirb0ga/kelimeOgrenme>
     cd kelimeOgrenme
     ```
 
